@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react_csv_creator-editor/static/css/main.9f87618b.css",
-    "main.js": "/react_csv_creator-editor/static/js/main.f4a1f7e4.js",
+    "main.js": "/react_csv_creator-editor/static/js/main.c1b46735.js",
     "static/js/787.5127cde8.chunk.js": "/react_csv_creator-editor/static/js/787.5127cde8.chunk.js",
     "static/media/plus4.svg": "/react_csv_creator-editor/static/media/plus4.5e3dce0eaad7295eff089eebcac1c3d9.svg",
     "index.html": "/react_csv_creator-editor/index.html",
     "static/media/deletecolor.svg": "/react_csv_creator-editor/static/media/deletecolor.48eb071fea84a50071d9a8ce95d56777.svg",
     "main.9f87618b.css.map": "/react_csv_creator-editor/static/css/main.9f87618b.css.map",
-    "main.f4a1f7e4.js.map": "/react_csv_creator-editor/static/js/main.f4a1f7e4.js.map",
+    "main.c1b46735.js.map": "/react_csv_creator-editor/static/js/main.c1b46735.js.map",
     "787.5127cde8.chunk.js.map": "/react_csv_creator-editor/static/js/787.5127cde8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f87618b.css",
-    "static/js/main.f4a1f7e4.js"
+    "static/js/main.c1b46735.js"
   ]
 }
