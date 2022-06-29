@@ -146,7 +146,7 @@ class App extends Component {
         <div className="flex flex-col justify-center items-center sm:p-8 p-2">
           <label className="mb-0">
             <h6 className="mb-2 font-poppins text-slate-200 text-2xl bg-cyan-700 px-3 py-1 rounded-lg font-semibold">
-              Create Your Own Database Here
+              Create Your Data Table Here
             </h6>
           </label>
           <div className="flex pt-3 ml-10">
