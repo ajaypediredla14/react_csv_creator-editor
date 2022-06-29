@@ -89,7 +89,7 @@ class App extends Component {
     var hiddenElement = document.createElement("a");
     hiddenElement.href = "data:text/csv;charset=utf-8," + encodeURI(csvData);
     hiddenElement.target = "_blank";
-    hiddenElement.download = "output.csv";
+    hiddenElement.download = "Books_Data.csv";
     hiddenElement.click();
     this.handleToast("csv Downloaded Successfully");
   };
