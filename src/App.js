@@ -97,12 +97,12 @@ class App extends Component {
   //Add row
   handleAddRow = () => {
     const newRow = {
-      title: "t",
-      author: "a",
-      subject: "s",
-      publisher: "p",
-      quantity: "q",
-      price: "[p",
+      title: "",
+      author: "",
+      subject: "",
+      publisher: "",
+      quantity: "",
+      price: "",
     };
 
     //react set local state
@@ -187,7 +187,7 @@ class App extends Component {
           </div>
           <>
             {this.state.data.length !== 0 ? (
-              <div className="flex p-2">
+              <div className="flex items-start  p-2 h-[500px] overflow-auto">
                 <table className="sm:text-sm text-left w-full">
                   <thead className="sm:text-sm text-[9px] shadow-sm uppercas">
                     <tr>
